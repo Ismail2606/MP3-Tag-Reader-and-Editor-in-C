@@ -1,4 +1,4 @@
-#View song details
+# View song details
 ./mp3_reader -v song.mp3
 
 # Edit the title
@@ -19,5 +19,5 @@
 # Edit the comment
 ./mp3_reader -e -c "Remastered version" song.mp3
 
-#ask for help
+# Ask for help
 ./mp3_reader --help
